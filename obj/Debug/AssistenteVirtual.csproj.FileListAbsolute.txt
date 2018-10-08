@@ -1,0 +1,11 @@
+C:\Users\Marcos Vini\Desktop\C# Projetos\Jarvis V2.0\Assistente Virtual\bin\Debug\Jarvis.exe.config
+C:\Users\Marcos Vini\Desktop\C# Projetos\Jarvis V2.0\Assistente Virtual\bin\Debug\Jarvis.exe
+C:\Users\Marcos Vini\Desktop\C# Projetos\Jarvis V2.0\Assistente Virtual\bin\Debug\Jarvis.pdb
+C:\Users\Marcos Vini\Desktop\C# Projetos\Jarvis V2.0\Assistente Virtual\bin\Debug\Microsoft.Speech.dll
+C:\Users\Marcos Vini\Desktop\C# Projetos\Jarvis V2.0\Assistente Virtual\obj\Debug\Jarvis.Assistente.resources
+C:\Users\Marcos Vini\Desktop\C# Projetos\Jarvis V2.0\Assistente Virtual\obj\Debug\Jarvis.Properties.Resources.resources
+C:\Users\Marcos Vini\Desktop\C# Projetos\Jarvis V2.0\Assistente Virtual\obj\Debug\AssistenteVirtual.csproj.GenerateResource.cache
+C:\Users\Marcos Vini\Desktop\C# Projetos\Jarvis V2.0\Assistente Virtual\obj\Debug\AssistenteVirtual.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Vini\Desktop\C# Projetos\Jarvis V2.0\Assistente Virtual\obj\Debug\AssistenteVirtual.csproj.CopyComplete
+C:\Users\Marcos Vini\Desktop\C# Projetos\Jarvis V2.0\Assistente Virtual\obj\Debug\Jarvis.exe
+C:\Users\Marcos Vini\Desktop\C# Projetos\Jarvis V2.0\Assistente Virtual\obj\Debug\Jarvis.pdb

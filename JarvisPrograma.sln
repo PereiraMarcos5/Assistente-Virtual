@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssistenteVirtual", "AssistenteVirtual.csproj", "{908EE5EB-D106-4851-96F5-F11CB3CFD759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{908EE5EB-D106-4851-96F5-F11CB3CFD759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{908EE5EB-D106-4851-96F5-F11CB3CFD759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{908EE5EB-D106-4851-96F5-F11CB3CFD759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{908EE5EB-D106-4851-96F5-F11CB3CFD759}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BE857D6-9D67-4C53-90A3-C23C6A810543}
+	EndGlobalSection
+EndGlobal
